@@ -1,0 +1,67 @@
+[
+    {
+        "HTML & CSS": [
+            {
+                "Link": "http://marksheet.io/",
+                "Title": "Marksheet",
+                "Desc": "A book styled course for HTML & CSS."
+            },
+            {
+                "Link": "https://www.codecademy.com/learn/web",
+                "Title": "CodeCademy: HTML & CSS",
+                "Desc": "A interactive course for learning the basics of HTML & CSS/"
+            },
+            {
+                "Link": "https://www.sololearn.com/Course/HTML/",
+                "Title": "SoloLearn: HTML Fundamentals",
+                "Desc": "A video based HTML course with a range of quizzes"
+            },
+            {
+                "Link": "https://www.udemy.com/learn-html5-programming-from-scratch",
+                "Title": "Udemy: Learn HTML5 Programming From Scratch",
+                "Desc": "A video based course on udemy that is completely free."
+            }
+        ],
+        "JavaScript": [
+            {
+                "Link": "https://www.freecodecamp.com",
+                "Title": "FreeCodeCamp",
+                "Desc": "A interactive web app design to teach and challenge you on everything JavaScript."
+            },
+            {
+                "Link": "https://www.udemy.com/javascript-essentials/",
+                "Title": "Udemy: Javascript Essentials",
+                "Desc": "A video based Javascript course that goes over the basics of programming as well as JS a good way to start."
+            },
+            {
+                "Link": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001?v=fe1",
+                "Title": "Udacity: Become A Front End Developer",
+                "Desc": "A self paced nano degree course."
+            }
+        ],
+        "PHP": [
+            {
+                "Link": "http://www.learn-php.org/",
+                "Title": "Learn PHP",
+                "Desc": "Welcome to the learn-php.org free interactive PHP tutorial. Whether you are an experienced programmer or not, this website is intended for everyone who wishes to learn the PHP programming language."
+            },
+            {
+                "Link": "https://www.udemy.com/learn-object-oriented-php-by-building-a-complete-website/",
+                "Title": "Udemy: Learn OOPHP By Building A Complete Website",
+                "Desc": "A video based course with quizes to easy you into OOPHP."
+            },
+            {
+                "Link": "https://www.codecademy.com/learn/php",
+                "Title": "CodeCademy: PHP",
+                "Desc": "A interactive PHP course designed to teach you the basics and get you started with PHP."
+            }
+        ],
+        "Swift": [],
+        "Python": [],
+        "C": [],
+        "C++": [],
+        "Java": [],
+        "Ruby": []
+    }
+]
+

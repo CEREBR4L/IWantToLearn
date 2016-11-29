@@ -1,7 +1,9 @@
 
 # [I Want To Learn](http://cerebral.online/IWantToLearn/)
 
-Don't we all? Well this project aims to help you on your way to doing that. The core will be to build a list of good well made courses or lessons on subjects on and around programming grouped by language but later to move out into other feilds.
+Don't we all? Well, this project aims to help you on your way to doing just that. 
+The core will be to build a list of good, well-made courses or lessons on subjects relating to programming. 
+The core will be organized by language, but will later to move out into other fields.
 
 We will begin by building up the list in `/json` so it can easily be used to populate the front end!
 

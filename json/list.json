@@ -1,6 +1,7 @@
 [
     {
-        "HTML & CSS": [
+        "lang": "HTML & CSS",
+        "courses": [
             {
                 "Link": "http://marksheet.io/",
                 "Title": "Marksheet",
@@ -21,8 +22,11 @@
                 "Title": "Udemy: Learn HTML5 Programming From Scratch",
                 "Desc": "A video based course on udemy that is completely free."
             }
-        ],
-        "JavaScript": [
+        ]
+    },
+    {
+        "lang": "JavaScript",
+        "courses": [
             {
                 "Link": "https://www.freecodecamp.com",
                 "Title": "FreeCodeCamp",
@@ -38,8 +42,11 @@
                 "Title": "Udacity: Become A Front End Developer",
                 "Desc": "A self paced nano degree course."
             }
-        ],
-        "PHP": [
+        ]
+    },
+    {
+         "lang": "PHP",
+         "courses": [
             {
                 "Link": "http://www.learn-php.org/",
                 "Title": "Learn PHP",
@@ -55,11 +62,112 @@
                 "Title": "CodeCademy: PHP",
                 "Desc": "A interactive PHP course designed to teach you the basics and get you started with PHP."
             }
-        ],
-        "Swift": [],
-        "Python": [],
-        "C": [],
-        "C++": [
+        ]
+    },
+    {
+        "lang": "Swift",
+        "courses": [
+            {
+                "Link": "http://www.learnswift.tips/",
+                "Title": "Swift Tips",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.udemy.com/core-data-maps-media-swift-app-developer/",
+                "Title": "Udemy: Swift MyWonders App",
+                "Desc": ""
+            },
+            {
+                "Link": "https://itunes.apple.com/us/book/swift-programming-language/id881256329",
+                "Title": "The Swift Programming Language",
+                "Desc": ""
+            },
+            {
+                "Link": "https://swift.org/",
+                "Title": "Swift.org",
+                "Desc": ""
+            },
+            {
+                "Link": "https://swifteducation.github.io/teaching_app_development_with_swift/",
+                "Title": "Teaching App Development with Swift",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift",
+                "Title": "Learn Swift: Build Your First iOS Game",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.codeschool.com/courses/app-evolution-with-swift",
+                "Title": "Code School: App Evolution With Swift",
+                "Desc": ""
+            }
+        ]
+    },
+    {
+         "lang": "Python",
+         "courses": [
+            {
+                "Link": "https://www.udacity.com/course/programming-foundations-with-python--ud036",
+                "Title": "Udacity: Programming Foundations with Python",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.udacity.com/course/intro-to-computer-science--cs101",
+                "Title": "Udacity: Intro to Computer Science",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.udemy.com/pythonforbeginnersintro/",
+                "Title": "Udemy: Introduction To Python Programming",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.udemy.com/learning-python-not-the-snake/",
+                "Title": "Udemy: Learn Python, it's CAKE (Beginners)",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.hackerrank.com/domains/python/py-introduction",
+                "Title": "HackerRank: Learn Python By Solving Challenges",
+                "Desc": ""
+            }
+        ]
+    },
+    {
+         "lang": "C",
+         "courses": [
+            {
+                "Link": "https://www.programiz.com/c-programming",
+                "Title": "Learn C Programming Language",
+                "Desc": ""
+            },
+            {
+                "Link": "http://www.c4learn.com/learn-c-programming-language/",
+                "Title": "Learn C - Made Simple",
+                "Desc": ""
+            },
+            {
+                "Link": "http://www.learn-c.org/",
+                "Title": "Learn C",
+                "Desc": ""
+            },
+            {
+                "Link": "https://learncodethehardway.org/c/",
+                "Title": "Learn C The Hard Way",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.tutorialspoint.com/cprogramming/",
+                "Title": "C Tutorial",
+                "Desc": ""
+            } 
+            
+        ]
+    },
+    {
+        "lang": "C++",
+        "courses": [
             {
                 "Link": "https://www.udemy.com/free-learn-c-tutorial-beginners/learn/v4/overview",
                 "Title": "Udemy: C++ Tutorial for Complete Beginners",
@@ -80,8 +188,11 @@
                 "Title": "C++ Tutorial",
                 "Desc": ""
             }
-        ],
-        "Java": [
+        ]
+    },
+    {
+        "lang": "Java",
+        "courses": [
             {
                 "Link": "https://www.udemy.com/java-tutorial/",
                 "Title": "Udemy: Java Tutorial for Complete Beginners",
@@ -97,8 +208,7 @@
                 "Title": "Udemy: Decoding AP Computer Science A",
                 "Desc": ""
             }
-        ],
-        "Ruby": []
+        ]
     }
 ]
 

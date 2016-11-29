@@ -1,0 +1,13 @@
+
+<div class="sub">
+    <div ng-repeat="langs in resp"> 
+
+        <h2 class="lang" ng-id="{{ langs.lang }}">{{ langs.lang }}</h2>
+
+        <div ng-repeat="course in langs.courses" class="link-cont">
+            <a class="link" ng-href="{{ course.Link }}" target="_blank">{{ course.Title }}</a>
+        </div>
+
+    </div>
+</div>
+

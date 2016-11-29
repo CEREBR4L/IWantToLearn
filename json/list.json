@@ -59,8 +59,45 @@
         "Swift": [],
         "Python": [],
         "C": [],
-        "C++": [],
-        "Java": [],
+        "C++": [
+            {
+                "Link": "https://www.udemy.com/free-learn-c-tutorial-beginners/learn/v4/overview",
+                "Title": "Udemy: C++ Tutorial for Complete Beginners",
+                "Desc": ""
+            },
+            {
+                "Link": "http://www.cplusplus.com/doc/tutorial/",
+                "Title": "C++ Language",
+                "Desc": ""
+            },
+            {
+                "Link": "http://www.tutorialspoint.com/cplusplus/index.htm",
+                "Title": "Learn C++",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.sololearn.com/Course/CPlusPlus/",
+                "Title": "C++ Tutorial",
+                "Desc": ""
+            }
+        ],
+        "Java": [
+            {
+                "Link": "https://www.udemy.com/java-tutorial/",
+                "Title": "Udemy: Java Tutorial for Complete Beginners",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.udemy.com/java-for-noobs-go-from-noob-to-semi-noob-noob-coder/",
+                "Title": "Udemy: Java for Noobs: Go from Noob to Semi-Noob",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.udemy.com/decoding-ap-computer-science-a/learn/v4/overview",
+                "Title": "Udemy: Decoding AP Computer Science A",
+                "Desc": ""
+            }
+        ],
         "Ruby": []
     }
 ]

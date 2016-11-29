@@ -4,7 +4,7 @@ angular.module('app').factory('getResources', function ($http) {
 
 		data: function getData() {
 
-			return $http.get('../json/list.json').success(function(data) {
+			return $http.get('json/list.json').success(function(data) {
 				return data;
 			});
 		}

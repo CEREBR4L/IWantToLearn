@@ -41,6 +41,11 @@
                 "Link": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001?v=fe1",
                 "Title": "Udacity: Become A Front End Developer",
                 "Desc": "A self paced nano degree course."
+            },
+            {
+                "Link": "http://javascript.info/",
+                "Title": "Javascript Info",
+                "Desc": ""
             }
         ]
     },

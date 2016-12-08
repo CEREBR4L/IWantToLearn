@@ -192,6 +192,11 @@
                 "Link": "https://www.sololearn.com/Course/CPlusPlus/",
                 "Title": "C++ Tutorial",
                 "Desc": ""
+            },
+            {
+                "Link": "http://www.learncpp.com/",
+                "Title": "Learn CPP",
+                "Desc": ""
             }
         ]
     },

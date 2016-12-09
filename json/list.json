@@ -18,6 +18,11 @@
                 "Desc": "A video based HTML course with a range of quizzes"
             },
             {
+                "Link": "https://www.sololearn.com/Course/CSS/",
+                "Title": "SoloLearn: CSS Fundamentals",
+                "Desc": "A video based CSS course with a range of quizzes"
+            },
+            {
                 "Link": "https://www.udemy.com/learn-html5-programming-from-scratch",
                 "Title": "Udemy: Learn HTML5 Programming From Scratch",
                 "Desc": "A video based course on udemy that is completely free."
@@ -46,6 +51,11 @@
                 "Link": "http://javascript.info/",
                 "Title": "Javascript Info",
                 "Desc": ""
+            },
+            {
+                "Link": "https://javascript30.com/",
+                "Title": "Javascript 30",
+                "Desc": ""
             }
         ]
     },
@@ -66,6 +76,11 @@
                 "Link": "https://www.codecademy.com/learn/php",
                 "Title": "CodeCademy: PHP",
                 "Desc": "A interactive PHP course designed to teach you the basics and get you started with PHP."
+            },
+            {
+                "Link": "https://www.sololearn.com/Course/PHP/",
+                "Title": "SoloLearn: PHP Tutorial",
+                "Desc": ""
             }
         ]
     },

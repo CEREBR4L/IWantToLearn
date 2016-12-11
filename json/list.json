@@ -242,6 +242,16 @@
                 "Link": "https://www.udemy.com/decoding-ap-computer-science-a/learn/v4/overview",
                 "Title": "Udemy: Decoding AP Computer Science A",
                 "Desc": ""
+            },
+            {
+                "Link": "https://www.coursera.org/learn/introduction-to-algorithms",
+                "Title": "Coursera: An Introduction To Algorithms",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.sololearn.com/Course/Java/",
+                "Title": "SoloLearn: Java Course",
+                "Desc": ""
             }
         ]
     }

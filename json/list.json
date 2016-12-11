@@ -155,6 +155,16 @@
         ]
     },
     {
+        "lang": "General Computer Science",
+        "courses": [
+            {
+                "Link": "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!",
+                "Title": "EDX: Introduction to Computer Science By Harvard",
+                "Desc": ""
+            }
+        ]
+    },
+    {
          "lang": "C",
          "courses": [
             {

@@ -26,6 +26,11 @@
                 "Link": "https://www.udemy.com/learn-html5-programming-from-scratch",
                 "Title": "Udemy: Learn HTML5 Programming From Scratch",
                 "Desc": "A video based course on udemy that is completely free."
+            },
+            {
+                "Link": "http://learn.shayhowe.com/",
+                "Title": "Learn To Code HTML & CSS: Beginner to Advanced",
+                "Desc": ""
             }
         ]
     },

@@ -231,6 +231,26 @@
         ]
     },
     {
+        "lang": "C#",
+        "courses": [
+            {
+                "Link": "https://www.dotnetperls.com/",
+                "Title": ".Net Perls",
+                "Desc": ""
+            },
+            {
+                "Link": "https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169",
+                "Title": "Microsoft Virtual Academy",
+                "Desc": ""
+            },
+            {
+                "Link": "https://courses.devu.com/courses/cs-fundamentals-via-asp-net-web-applications",
+                "Title": "DevU: C# Fundamentals",
+                "Desc": ""
+            }
+        ]
+    },
+    {
         "lang": "Java",
         "courses": [
             {

@@ -115,6 +115,31 @@
         ]
     },
     {
+        "lang": "Elixir",
+        "courses": [
+            {
+                "Link": "https://www.codeschool.com/courses/try-elixir",
+                "Title": "Code School: Try Elxir",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.codeschool.com/courses/mixing-it-up-with-elixir",
+                "Title": "Code School: Mixing It Up With Elixir",
+                "Desc": ""
+            },
+            {
+                "Link": "http://elixirschool.com/",
+                "Title": "Elixir School",
+                "Desc": ""
+            },
+            {
+                "Link": "https://www.learnelixir.tv/",
+                "Title": "Learn Elixir TV",
+                "Desc": ""
+            }
+        ]
+    },
+    {
         "lang": "Swift",
         "courses": [
             {
